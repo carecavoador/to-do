@@ -1,8 +1,8 @@
+"""Top-level package for RP To-Do."""
+# rptodo/__init__.py
+
 __app_name__ = "rptodo"
 __version__ = "0.1.0"
-
-from sre_constants import SUCCESS
-
 
 (
     SUCCESS,
@@ -19,5 +19,5 @@ ERRORS = {
     FILE_ERROR: "config file error",
     DB_READ_ERROR: "database read error",
     DB_WRITE_ERROR: "database write error",
-    ID_ERROR: "to-do id error"
+    ID_ERROR: "to-do id error",
 }
