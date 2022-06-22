@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Description": "Comprar leite.",
+        "Priority": 1,
+        "Done": false
+    },
+    {
+        "Description": "Limpar a casa.",
+        "Priority": 3,
+        "Done": false
+    },
+    {
+        "Description": "Lavar o carro.",
+        "Priority": 2,
+        "Done": false
+    }
+]
